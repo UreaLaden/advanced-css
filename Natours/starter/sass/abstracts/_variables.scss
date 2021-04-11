@@ -15,6 +15,7 @@ $color-grey-light-2: #eee;
 
 
 $color-grey-dark: #777;
+$color-grey-dark-2: #999;
 $color-white:#fff;
 $color-black: #000;
 
@@ -22,6 +23,9 @@ $color-black: #000;
 $color-default-shadow:rgba($color-black,.15);
 $color-shadow-1:rgba($color-black,.5);
 $color-shadow-2:rgba($color-black,.4);
+
+//Border Radius
+$default-border: 3px;
 
 // Font Sizes
 $default-font-size: 1.6rem;
